@@ -11,3 +11,9 @@ Steps to run :
 6) We can also see images and pdfs added in the public/images folder in server(backend).
 
    ![books db postgres](https://github.com/Harsh7wardhan/Book-store-app/assets/84726898/93ee0603-ff6c-4fc6-aaff-477d522da91c)
+
+Here are frontend and backend images for your reference:
+Frontend:
+![frontend ss](https://github.com/Harsh7wardhan/Book-store-app/assets/84726898/0fde0618-4c48-4137-962d-0498ccf23d56)
+Backend:
+![backend ss](https://github.com/Harsh7wardhan/Book-store-app/assets/84726898/68aaaa4c-8488-4719-baa3-15e983924351)
